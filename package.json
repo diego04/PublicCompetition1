@@ -1,0 +1,31 @@
+{
+  "name": "restify-api",
+  "version": "1.0.0",
+  "description": "pds api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego04/PublicCompetition1.git"
+  },
+  "keywords": [
+    "pds",
+    "nodejs",
+    "restify",
+    "nasa"
+  ],
+  "author": "Kevin De Asis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diego04/PublicCompetition1/issues"
+  },
+  "homepage": "https://github.com/diego04/PublicCompetition1#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "mysql": "^2.9.0",
+    "restify": "^4.0.0",
+    "squel": "^4.1.0"
+  }
+}
